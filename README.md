@@ -19,10 +19,10 @@ To create an advanced facial emotion recognition model capable of real-time inte
 
 **Methods and Models used:**
 
-**Convolutional Neural Network (CNN):** To capture spatial hierarchies and characteristics of facial expressions in image data.
-**Optimizers:** Experimentation with Adam, SGD, RMSprop, and Adamax to determine the most effective algorithm for training our CNN model.
-**Data Augmentation:** To enhance the model's ability to generalize from the training data by introducing variations such as rotations and flips.
-**Class Imbalance Handling:** Employing techniques like class weighting or oversampling to ensure a balanced representation of emotions.
+- **Convolutional Neural Network (CNN):** To capture spatial hierarchies and characteristics of facial expressions in image data.
+- **Optimizers:** Experimentation with Adam, SGD, RMSprop, and Adamax to determine the most effective algorithm for training our CNN model.
+- **Data Augmentation:** To enhance the model's ability to generalize from the training data by introducing variations such as rotations and flips.
+- **Class Imbalance Handling:** Employing techniques like class weighting or oversampling to ensure a balanced representation of emotions.
 
 
 
